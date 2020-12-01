@@ -1,0 +1,4 @@
+-- CREATE TABLE HERO(
+--  id varchar(255)
+--
+-- );
